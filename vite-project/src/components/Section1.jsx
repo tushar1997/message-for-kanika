@@ -64,7 +64,7 @@ const Section1 = () => {
       />
 
       <h1 className="section1-heading">
-        {'Exploring Deeper Waters'.split('').map((char, i) => (
+        {'NOW, I FOUND YOU, KANIKA'.split('').map((char, i) => (
           <span key={i} className="beam-letter">
             {char === ' ' ? '\u00A0' : char}
           </span>
@@ -82,7 +82,7 @@ const Section1 = () => {
       <a
         className="section-fab"
         href="#"
-        aria-label="Click here"
+        aria-label="Ab Yahan click karo"
       >
         click here
       </a>
