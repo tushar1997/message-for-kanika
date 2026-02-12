@@ -58,7 +58,7 @@ const handleMouseMove = (e) => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: 'easeOut' }}
         >
-          I was searching for someone in this dark world with a beam of light
+          I was searching for someone in this dark world
         </motion.h1>
 
         <motion.p
