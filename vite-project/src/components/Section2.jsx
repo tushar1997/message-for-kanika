@@ -31,14 +31,7 @@ const Section2 = () => {
           Every section tells a story, guided by light and layered by thought.<br />
           Dive deep, explore more, and sail into innovation.
         </p>
-        <a
-          className="section2-button"
-          href="https://github.com/your-username/your-repo"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          View on GitHub
-        </a>
+
       </motion.div>
     </div>
   );
