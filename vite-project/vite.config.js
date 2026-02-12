@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/valentines-message/',
+  base: '/message-for-kanika/',
   plugins: [react()],
   build: {
     minify: 'terser',
