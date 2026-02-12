@@ -23,7 +23,7 @@ const Section2 = () => {
         transition={{ duration: 1.2, ease: 'easeOut', delay: 0.2 }}
         viewport={{ once: true, amount: 0.4 }}
       >
-        <h2 className="typewriter">Charting New Territories</h2>
+        <h2 className="typewriter">A Moon Entering my life</h2>
         <p className="section2-text">
           I still can’t believe we randomly crossed paths on Instagram of all places. I mean… what are the odds? I sent that “let’s see if she even replies” message with zero expectations… and then you actually replied. I’m not saying it was fate, but Instagram algorithm deserves a thank you card.
           And now here we are… talking, laughing, sharing random thoughts like we’ve known each other longer than we actually have. Not bad for two strangers who met in the comment section jungle.
