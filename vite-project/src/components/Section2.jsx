@@ -40,13 +40,6 @@ const Section2 = () => {
           View on GitHub
         </a>
       </motion.div>
-      <a
-        className="section2-fab"
-        href="#"
-        aria-label="Click here"
-      >
-        click here
-      </a>
     </div>
   );
 };

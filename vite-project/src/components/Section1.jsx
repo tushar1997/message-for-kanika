@@ -70,6 +70,13 @@ const Section1 = () => {
           </span>
         ))}
       </h1>
+      <a
+        className="section-fab"
+        href="#"
+        aria-label="Click here"
+      >
+        click here
+      </a>
     </div>
   );
 };
