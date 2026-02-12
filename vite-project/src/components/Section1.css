@@ -87,3 +87,11 @@
   background: linear-gradient(180deg, #0b2a54 0%, #021122 60%);
   color: #ffffff;
 }
+
+.section1-navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}

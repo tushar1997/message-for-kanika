@@ -70,6 +70,15 @@ const Section1 = () => {
           </span>
         ))}
       </h1>
+      <nav className="hero-navbar section1-navbar">
+        <ul className="nav-items">
+          <li><a href="#">Move</a></li>
+          <li><a href="#">Mouse</a></li>
+          <li><a href="#">On</a></li>
+          <li><a href="#">This</a></li>
+          <li><a href="#">Page</a></li>
+        </ul>
+      </nav>
       <a
         className="section-fab"
         href="#"
