@@ -1,11 +1,13 @@
 .footer {
-  width: 100%;
+  width: 100vw;
   background-color: #ffffff;
   padding: 24px 20px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+  z-index: 5;
+  box-sizing: border-box;
 }
 
 .footer-text {
